@@ -1,0 +1,4 @@
+[submodule "gera-odoo/sat_geolocalization"]
+	path = gera-odoo/sat_geolocalization
+	url = git@github.com:gera-odoo/sat_geolocalization.git
+	branch = main
